@@ -1,4 +1,4 @@
-# VisionFlow
+# VisionFlow V1 
 
 **VisionFlow** is a Python application that allows you to view the video stream 
 from an IP camera and adjust its brightness in real-time. 
