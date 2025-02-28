@@ -4,6 +4,9 @@
 from an IP camera and adjust its brightness in real-time. 
 It uses OpenCV for managing the video feed and creating a simple graphical interface to control brightness.
 
+Sorry for my bad English :( 
+translate by ChatGPT
+
 ## Created by
 **VortexCyber**  
 [LinkTree](http://linktr.ee/vortex_)
